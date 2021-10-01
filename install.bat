@@ -1,0 +1,1 @@
+pip install PineappleDev-0.3.tar.gz
