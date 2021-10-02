@@ -4,4 +4,4 @@ A package for python
 1.0
 # Credits
 Idea, desing and developer: x04000 | 
-\nIdeas and help: GhostTD
+Ideas and help: GhostTD
