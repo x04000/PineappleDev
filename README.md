@@ -1,4 +1,7 @@
 # PineappleDev
 A package for python
 # Version
-0.3
+1.0
+# Credits
+Idea, desing and developer: x04000
+Ideas and help: GhostTD
